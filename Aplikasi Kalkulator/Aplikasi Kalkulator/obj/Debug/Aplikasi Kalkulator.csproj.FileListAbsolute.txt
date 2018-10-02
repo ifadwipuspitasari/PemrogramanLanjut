@@ -1,9 +1,0 @@
-c:\users\ifa\documents\visual studio 2015\Projects\Aplikasi Kalkulator\Aplikasi Kalkulator\bin\Debug\Aplikasi Kalkulator.exe.config
-c:\users\ifa\documents\visual studio 2015\Projects\Aplikasi Kalkulator\Aplikasi Kalkulator\bin\Debug\Aplikasi Kalkulator.exe
-c:\users\ifa\documents\visual studio 2015\Projects\Aplikasi Kalkulator\Aplikasi Kalkulator\bin\Debug\Aplikasi Kalkulator.pdb
-c:\users\ifa\documents\visual studio 2015\Projects\Aplikasi Kalkulator\Aplikasi Kalkulator\obj\Debug\Aplikasi Kalkulator.csprojResolveAssemblyReference.cache
-c:\users\ifa\documents\visual studio 2015\Projects\Aplikasi Kalkulator\Aplikasi Kalkulator\obj\Debug\Aplikasi_Kalkulator.Form1.resources
-c:\users\ifa\documents\visual studio 2015\Projects\Aplikasi Kalkulator\Aplikasi Kalkulator\obj\Debug\Aplikasi_Kalkulator.Properties.Resources.resources
-c:\users\ifa\documents\visual studio 2015\Projects\Aplikasi Kalkulator\Aplikasi Kalkulator\obj\Debug\Aplikasi Kalkulator.csproj.GenerateResource.Cache
-c:\users\ifa\documents\visual studio 2015\Projects\Aplikasi Kalkulator\Aplikasi Kalkulator\obj\Debug\Aplikasi Kalkulator.exe
-c:\users\ifa\documents\visual studio 2015\Projects\Aplikasi Kalkulator\Aplikasi Kalkulator\obj\Debug\Aplikasi Kalkulator.pdb

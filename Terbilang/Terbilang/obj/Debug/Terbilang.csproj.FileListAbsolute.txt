@@ -1,0 +1,11 @@
+c:\users\ifa\documents\visual studio 2015\Projects\Terbilang\Terbilang\bin\Debug\Terbilang.exe.config
+C:\Users\ifa\Documents\Visual Studio 2015\Projects\Terbilang\Terbilang\obj\Debug\Terbilang.csprojResolveAssemblyReference.cache
+C:\Users\ifa\Documents\Visual Studio 2015\Projects\Terbilang\Terbilang\obj\Debug\Terbilang.Form1.resources
+C:\Users\ifa\Documents\Visual Studio 2015\Projects\Terbilang\Terbilang\obj\Debug\Terbilang.Properties.Resources.resources
+C:\Users\ifa\Documents\Visual Studio 2015\Projects\Terbilang\Terbilang\obj\Debug\Terbilang.csproj.GenerateResource.Cache
+C:\Users\ifa\Documents\Visual Studio 2015\Projects\Terbilang\Terbilang\bin\Debug\Terbilang.exe
+C:\Users\ifa\Documents\Visual Studio 2015\Projects\Terbilang\Terbilang\bin\Debug\Terbilang.pdb
+C:\Users\ifa\Documents\Visual Studio 2015\Projects\Terbilang\Terbilang\bin\Debug\ClassLibrary.dll
+C:\Users\ifa\Documents\Visual Studio 2015\Projects\Terbilang\Terbilang\bin\Debug\ClassLibrary.pdb
+C:\Users\ifa\Documents\Visual Studio 2015\Projects\Terbilang\Terbilang\obj\Debug\Terbilang.exe
+C:\Users\ifa\Documents\Visual Studio 2015\Projects\Terbilang\Terbilang\obj\Debug\Terbilang.pdb
